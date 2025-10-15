@@ -1,0 +1,58 @@
+[
+  {
+    "id": "575706",
+    "name": "Rusty Caldwell",
+    "email": "rusty.caldwell@university.com",
+    "password": "Abcdef123",
+    "subjects": [
+      {
+        "id": "628",
+        "mark": 27,
+        "grade": "F"
+      },
+      {
+        "id": "916",
+        "mark": 67,
+        "grade": "C"
+      },
+      {
+        "id": "816",
+        "mark": 64,
+        "grade": "P"
+      },
+      {
+        "id": "575",
+        "mark": 99,
+        "grade": "HD"
+      }
+    ]
+  },
+  {
+    "id": "732645",
+    "name": "Frank Catton",
+    "email": "frank.catton@university.com",
+    "password": "Abcdef123",
+    "subjects": [
+      {
+        "id": "344",
+        "mark": 34,
+        "grade": "F"
+      },
+      {
+        "id": "095",
+        "mark": 69,
+        "grade": "C"
+      },
+      {
+        "id": "739",
+        "mark": 70,
+        "grade": "C"
+      },
+      {
+        "id": "872",
+        "mark": 72,
+        "grade": "C"
+      }
+    ]
+  }
+]
