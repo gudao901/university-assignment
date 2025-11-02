@@ -54,5 +54,36 @@
         "grade": "C"
       }
     ]
+  },
+  {
+    "id": "794661",
+    "name": "Soham",
+    "email": "soham@university.com",
+    "password": "AAAAAA111",
+    "subjects": [
+      {
+        "id": "268",
+        "mark": 51,
+        "grade": "P"
+      },
+      {
+        "id": "337",
+        "mark": 76,
+        "grade": "D"
+      }
+    ]
+  },
+  {
+    "id": "910532",
+    "name": "Dao1",
+    "email": "dao1@university.com",
+    "password": "AAAAAA111",
+    "subjects": [
+      {
+        "id": "180",
+        "mark": 80,
+        "grade": "D"
+      }
+    ]
   }
 ]
